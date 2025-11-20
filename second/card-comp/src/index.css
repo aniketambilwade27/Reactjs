@@ -1,0 +1,26 @@
+.card{
+
+  margin: 20px;
+  width:300px;
+  img{width:250px; display: flex;
+    margin-left: 25px;
+    margin-top: 25px;
+    border: solid rgb(255, 255, 255);
+    border-radius: 5px;
+   
+    justify-content: center;
+  }
+ 
+  border: solid 3px rgb(33, 33, 33);
+  border-radius: 10px;
+
+  background-color: rgb(155, 163, 161);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.658);
+  text-align: center;
+
+  display: inline-block;
+  p{
+    color: rgba(0, 0, 0, 0.568);
+  }
+  
+}
