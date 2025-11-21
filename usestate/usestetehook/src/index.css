@@ -2,6 +2,8 @@
   border: 1px black solid;
   text-align: center;
   width: 200px;
+  display: inline-block;
+  margin: 20px;
  
 }
 
@@ -9,4 +11,20 @@
   margin: 5px;
   background-color: rgb(17, 201, 225);
   color: white;
+}
+
+.event{
+  border: 1px black solid;
+  width: 200px;
+  padding: 10px;
+  display: inline-block;
+  margin: 20px;
+}
+
+.usehook{
+  border: 1px black solid;
+  width: 200px;
+  padding: 10px;
+  display: inline-block;
+  margin: 20px;
 }

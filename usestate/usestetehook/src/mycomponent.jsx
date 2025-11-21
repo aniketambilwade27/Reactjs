@@ -17,7 +17,7 @@ const increamentAge=()=>{
 }
 
     return (
-        <div>
+        <div className="usehook">
           <p>name: {name}</p>
           <button onClick={updateName}>setname</button>
           <p>age:{age}</p>
