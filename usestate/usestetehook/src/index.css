@@ -1,0 +1,12 @@
+.counter{
+  border: 1px black solid;
+  text-align: center;
+  width: 200px;
+ 
+}
+
+.counter button{
+  margin: 5px;
+  background-color: rgb(17, 201, 225);
+  color: white;
+}
