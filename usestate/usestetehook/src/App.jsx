@@ -1,6 +1,7 @@
 import MyComp from "./mycomponent";
 import Counter from "./Counter";
 import OnEvent from "./OnEvent";
+import Colorpicker from "./Colorpicker.jsx";
 function App() {
   
   return ( 
@@ -9,6 +10,7 @@ function App() {
       <OnEvent/>
       <MyComp/>
       <Counter/>
+      <Colorpicker/>
        
     </div>
   );
